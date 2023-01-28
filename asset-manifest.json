@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactfirebase/static/css/main.c2cab247.css",
+    "main.js": "/reactfirebase/static/js/main.d921668f.js",
+    "index.html": "/reactfirebase/index.html",
+    "main.c2cab247.css.map": "/reactfirebase/static/css/main.c2cab247.css.map",
+    "main.d921668f.js.map": "/reactfirebase/static/js/main.d921668f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.d921668f.js"
+  ]
+}
